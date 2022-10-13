@@ -1,2 +1,2 @@
 print("Haloo")
-print("cabang 1")
+print("cabang 1.2")
